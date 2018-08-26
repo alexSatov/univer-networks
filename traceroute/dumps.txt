@@ -1,0 +1,655 @@
+# open whois.ripe.net 43
+Connection to whois.ripe.net:43 - ok
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+
+# 93.158.134.3
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+% To receive output for a database update, use the "-B" flag.
+
+% Information related to '93.158.134.0 - 93.158.134.255'
+
+% Abuse contact for '93.158.134.0 - 93.158.134.255' is 'abuse@yandex.ru'
+
+inetnum: 93.158.134.0 - 93.158.134.255
+netname: YANDEX-93-158-134
+status: ASSIGNED PA
+country: RU
+descr: Yandex enterprise network
+admin-c: YNDX1-RIPE
+tech-c: YNDX1-RIPE
+remarks: INFRA-AW
+mnt-by: YANDEX-MNT
+created: 2008-07-07T13:23:10Z
+last-modified: 2014-03-26T08:30:38Z
+source: RIPE
+
+role: Yandex LLC Network Operations
+address: Yandex LLC
+address: 16, Leo Tolstoy St.
+address: 119021
+address: Moscow
+address: Russian Federation
+phone: +7 495 739 7000
+fax-no: +7 495 739 7070
+remarks: trouble: ------------------------------------------------------
+remarks: trouble: Points of contact for Yandex LLC Network Operations
+remarks: trouble: ------------------------------------------------------
+remarks: trouble: Routing and peering issues: noc@yandex.net
+remarks: trouble: SPAM issues: abuse@yandex.ru
+remarks: trouble: Network security issues: abuse@yandex.ru
+remarks: trouble: Mail issues: postmaster@yandex.ru
+remarks: trouble: General information: info@yandex.ru
+remarks: trouble: ------------------------------------------------------
+admin-c: PGR777-RIPE
+admin-c: TVB11-RIPE
+tech-c: EM3673-RIPE
+tech-c: AUR2-RIPE
+nic-hdl: YNDX1-RIPE
+mnt-by: YANDEX-MNT
+created: 2002-06-07T05:35:50Z
+last-modified: 2013-09-03T08:16:13Z
+source: RIPE # Filtered
+abuse-mailbox: abuse@yandex.ru
+
+% Information related to '93.158.134.0/24AS13238'
+
+route: 93.158.134.0/24
+descr: Yandex enterprise network
+origin: AS13238
+mnt-by: YANDEX-MNT
+created: 2012-02-09T15:59:56Z
+last-modified: 2012-02-09T15:59:56Z
+source: RIPE
+
+% This query was served by the RIPE Database Query Service version 1.88 (BLAARKOP)
+
+# close
+Connection closed
+
+
+
+
+
+
+
+
+
+
+# open whois.arin.net 43
+Connection to whois.arin.net:43 - ok
+
+# 191.239.213.197
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# Query terms are ambiguous. The query is assumed to be:
+# "n 191.239.213.197"
+#
+# Use "?" to get help.
+#
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=191.239.213.197?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange: 191.0.0.0 - 191.255.255.255
+CIDR: 191.0.0.0/8
+NetName: NET191
+NetHandle: NET-191-0-0-0-0
+Parent: ()
+NetType: Allocated to LACNIC
+OriginAS:
+Organization: Latin American and Caribbean IP address Regional Registry (LACNIC)
+RegDate: 1993-05-01
+Updated: 2010-07-21
+Ref: https://whois.arin.net/rest/net/NET-191-0-0-0-0
+
+ResourceLink: http://lacnic.net/cgi-bin/lacnic/whois
+ResourceLink: whois.lacnic.net
+
+OrgName: Latin American and Caribbean IP address Regional Registry
+OrgId: LACNIC
+Address: Rambla Republica de Mexico 6125
+City: Montevideo
+StateProv:
+PostalCode: 11400
+Country: UY
+RegDate: 2002-07-27
+Updated: 2011-09-24
+Ref: https://whois.arin.net/rest/org/LACNIC
+
+ReferralServer: whois://whois.lacnic.net
+ResourceLink: http://lacnic.net/cgi-bin/lacnic/whois
+
+OrgAbuseHandle: LACNIC-ARIN
+OrgAbuseName: LACNIC Whois Info
+OrgAbusePhone: 999-999-9999
+OrgAbuseEmail: whois-contact@lacnic.net
+OrgAbuseRef: https://whois.arin.net/rest/poc/LACNIC-ARIN
+
+OrgTechHandle: LACNIC-ARIN
+OrgTechName: LACNIC Whois Info
+OrgTechPhone: 999-999-9999
+OrgTechEmail: whois-contact@lacnic.net
+OrgTechRef: https://whois.arin.net/rest/poc/LACNIC-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+# close
+Connection closed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# open whois.iana.org
+Connection to whois.iana.org: - fail
+Error #0 (Failed to parse address "whois.iana.org")
+# open whois.iana.org 43
+Connection to whois.iana.org:43 - ok
+
+# 191.239.213.197
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer: whois.lacnic.net
+
+inetnum: 191.0.0.0 - 191.255.255.255
+organisation: Administered by LACNIC
+status: LEGACY
+
+whois: whois.lacnic.net
+
+changed: 1993-05
+source: IANA
+
+
+# close
+Connection closed
+# open whois.lacnic.net 43
+Connection to whois.lacnic.net:43 - ok
+
+# 191.239.213.197
+
+% Joint Whois - whois.lacnic.net
+% This server accepts single ASN, IPv4 or IPv6 queries
+
+% Brazilian resource: whois.registro.br
+
+
+% Copyright (c) Nic.br
+% The use of the data below is only permitted as described in
+% full by the terms of use at https://registro.br/termo/en.html ,
+% being prohibited its distribution, commercialization or
+% reproduction, in particular, to use it for advertising or
+% any similar purpose.
+% 2017-03-05 03:31:45 (BRT -03:00)
+
+inetnum: 191.236.0.0/14
+aut-num: AS8075
+abuse-c: BEORN2
+owner: Microsoft Informatica Ltda
+ownerid: 60.316.817/0001-03
+responsible: Benjamin Orndorff
+country: BR
+owner-c: BEORN2
+tech-c: BEORN2
+inetrev: 191.239.208.0/20
+nserver: prd1.azuredns-cloud.net
+nsstat: 20170303 AA
+nslastaa: 20170303
+nserver: prd2.azuredns-cloud.net
+nsstat: 20170303 AA
+nslastaa: 20170303
+nserver: prd3.azuredns-cloud.net
+nsstat: 20170303 AA
+nslastaa: 20170303
+nserver: prd4.azuredns-cloud.net
+nsstat: 20170303 AA
+nslastaa: 20170303
+nserver: prd5.azuredns-cloud.net
+nsstat: 20170303 AA
+nslastaa: 20170303
+created: 20130911
+changed: 20130911
+
+nic-hdl-br: BEORN2
+person: Benjamin Orndorff
+e-mail: domains@microsoft.com
+country: BR
+created: 20110810
+changed: 20160927
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+
+# close
+Connection closed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# open whois.arin.net 43
+Connection to whois.arin.net:43 - ok
+
+# 212.104.78.59
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# Query terms are ambiguous. The query is assumed to be:
+# "n 212.104.78.59"
+#
+# Use "?" to get help.
+#
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=212.104.78.59?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange: 212.0.0.0 - 212.255.255.255
+CIDR: 212.0.0.0/8
+NetName: RIPE-NCC-212
+NetHandle: NET-212-0-0-0-1
+Parent: ()
+NetType: Allocated to RIPE NCC
+OriginAS:
+Organization: RIPE Network Coordination Centre (RIPE)
+RegDate: 1997-11-14
+Updated: 2009-03-25
+Comment: These addresses have been further assigned to users in
+Comment: the RIPE NCC region. Contact information can be found in
+Comment: the RIPE database at http://www.ripe.net/whois
+Ref: https://whois.arin.net/rest/net/NET-212-0-0-0-1
+
+ResourceLink: https://apps.db.ripe.net/search/query.html
+ResourceLink: whois.ripe.net
+
+OrgName: RIPE Network Coordination Centre
+OrgId: RIPE
+Address: P.O. Box 10096
+City: Amsterdam
+StateProv:
+PostalCode: 1001EB
+Country: NL
+RegDate:
+Updated: 2013-07-29
+Ref: https://whois.arin.net/rest/org/RIPE
+
+ReferralServer: whois://whois.ripe.net
+ResourceLink: https://apps.db.ripe.net/search/query.html
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName: RIPE NCC Operations
+OrgTechPhone: +31 20 535 4444
+OrgTechEmail: hostmaster@ripe.net
+OrgTechRef: https://whois.arin.net/rest/poc/RNO29-ARIN
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName: Abuse Contact
+OrgAbusePhone: +31205354444
+OrgAbuseEmail: abuse@ripe.net
+OrgAbuseRef: https://whois.arin.net/rest/poc/ABUSE3850-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+# close
+Connection closed
+
+
+
+
+
+
+
+
+# open whois.arin.net 43
+Connection to whois.arin.net:43 - ok
+
+# 199.43.0.43
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# Query terms are ambiguous. The query is assumed to be:
+# "n 199.43.0.43"
+#
+# Use "?" to get help.
+#
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=199.43.0.43?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange: 199.43.0.0 - 199.43.0.255
+CIDR: 199.43.0.0/24
+NetName: ARIN-ASH
+NetHandle: NET-199-43-0-0-1
+Parent: NET199 (NET-199-0-0-0-0)
+NetType: Direct Assignment
+OriginAS: AS10745
+Organization: ARIN Operations (ARINOPS)
+RegDate: 2005-11-09
+Updated: 2015-07-15
+Ref: https://whois.arin.net/rest/net/NET-199-43-0-0-1
+
+
+OrgName: ARIN Operations
+OrgId: ARINOPS
+Address: PO Box 232290
+City: Centreville
+StateProv: VA
+PostalCode: 20120
+Country: US
+RegDate: 2012-09-07
+Updated: 2016-08-08
+Ref: https://whois.arin.net/rest/org/ARINOPS
+
+
+OrgTechHandle: MJO282-ARIN
+OrgTechName: O'Neill, Michael J
+OrgTechPhone: +1-703-227-0660
+OrgTechEmail: mjo@arin.net
+OrgTechRef: https://whois.arin.net/rest/poc/MJO282-ARIN
+
+OrgTechHandle: NEWTO24-ARIN
+OrgTechName: Newton, Andy
+OrgTechPhone: +1-703-227-0660
+OrgTechEmail: andy@arin.net
+OrgTechRef: https://whois.arin.net/rest/poc/NEWTO24-ARIN
+
+OrgTechHandle: ROWLE12-ARIN
+OrgTechName: Rowley, Matt
+OrgTechPhone: +1-703-227-0660
+OrgTechEmail: matt@arin.net
+OrgTechRef: https://whois.arin.net/rest/poc/ROWLE12-ARIN
+
+OrgAbuseHandle: AOA4-ARIN
+OrgAbuseName: ARIN Operations Abuse
+OrgAbusePhone: +1-703-227-0660
+OrgAbuseEmail: abuse@arin.net
+OrgAbuseRef: https://whois.arin.net/rest/poc/AOA4-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+# open whois.apnic.net 43
+Connection to whois.apnic.net:43 - ok
+% [whois.apnic.net]
+% Whois data copyright terms http://www.apnic.net/db/dbcopyright.html
+
+
+# 111.13.101.208
+% [whois.apnic.net]
+% Whois data copyright terms http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '111.0.0.0 - 111.63.255.255'
+
+inetnum: 111.0.0.0 - 111.63.255.255
+netname: CMNET
+descr: China Mobile Communications Corporation
+descr: Mobile Communications Network Operator in China
+descr: Internet Service Provider in China
+country: CN
+admin-c: JS686-AP
+tech-c: HL1318-AP
+remarks: service provider
+status: ALLOCATED PORTABLE
+mnt-by: APNIC-HM
+mnt-lower: MAINT-CN-CMCC
+mnt-routes: MAINT-CN-CMCC
+remarks: --------------------------------------------------------
+remarks: To report network abuse, please contact mnt-irt
+remarks: For troubleshooting, please contact tech-c and admin-c
+remarks: Report invalid contact via www.apnic.net/invalidcontact
+remarks: --------------------------------------------------------
+source: APNIC
+mnt-irt: IRT-CHINAMOBILE-CN
+changed: hm-changed@apnic.net 20090506
+
+irt: IRT-CHINAMOBILE-CN
+address: China Mobile Communications Corporation
+address: 29, Jinrong Ave., Xicheng District, Beijing, 100032
+e-mail: abuse@chinamobile.com
+abuse-mailbox: abuse@chinamobile.com
+admin-c: CT74-AP
+tech-c: CT74-AP
+auth: # Filtered
+mnt-by: MAINT-CN-CMCC
+changed: abuse@chinamobile.com 20141118
+source: APNIC
+
+person: haijun li
+nic-hdl: HL1318-AP
+e-mail: hostmaster@chinamobile.com
+address: 29,Jinrong Ave, Xicheng district,beijing,100032
+phone: +86 1052686688
+fax-no: +86 10 52616187
+country: CN
+changed: hostmaster@chinamobile.com 20161129
+mnt-by: MAINT-CN-CMCC
+abuse-mailbox: abuse@chinamobile.com
+source: APNIC
+
+person: Jinxia Sun
+address: China Mobile Communications Corporation
+address: 29, Jinrong Ave., Xicheng District, Beijing, 100032
+country: CN
+phone: +86-10-52686688
+fax-no: +86-10-66006012
+e-mail: hostmaster@chinamobile.com
+nic-hdl: JS686-AP
+remarks: ------------------------------
+remarks: Please send abuse e-mail to
+remarks: abuse@chinamobile.com
+remarks: Please send probe e-mail to
+remarks: security@chinamobile.com
+remarks: -------------------------------
+mnt-by: MAINT-CN-CMCC
+changed: hostmaster@chinamobile.com 20141118
+source: APNIC
+
+% Information related to '111.0.0.0/10AS9808'
+
+route: 111.0.0.0/10
+descr: China Mobile communications corporation
+origin: AS9808
+mnt-by: MAINT-CN-CMCC
+changed: hostmaster@chinamobile.com 20120215
+source: APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (UNDEFINED)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# open whois.afrinic.net 43
+Connection to whois.afrinic.net:43 - ok
+% This is the AfriNIC Whois server.
+
+
+# 196.216.2.6
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+% To receive output for a database update, use the "-B" flag.
+
+% Information related to '196.216.2.0 - 196.216.3.255'
+
+% Abuse contact for '196.216.2.0 - 196.216.3.255' is 'abuse@afrinic.net'
+
+inetnum: 196.216.2.0 - 196.216.3.255
+netname: AFRINIC
+descr: AfriNIC - Internal Use
+country: ZA
+org: ORG-AFNC1-AFRINIC
+admin-c: CA15-AFRINIC
+tech-c: IT7-AFRINIC
+status: ASSIGNED PI
+remarks: To be deleted from the WHOIS DB on 5-March-2014
+mnt-by: AFRINIC-HM-MNT
+mnt-lower: AFRINIC-IT-MNT
+mnt-domains: AFRINIC-IT-MNT
+mnt-routes: AFRINIC-IT-MNT
+mnt-irt: IRT-AFRINIC-IT
+source: AFRINIC # Filtered
+parent: 196.0.0.0 - 196.255.255.255
+
+organisation: ORG-AFNC1-AFRINIC
+org-name: African Network Information Center - ( AfriNIC Ltd )
+org-type: RIR
+country: MU
+remarks: =======================================
+remarks: For more information on AFRINIC assigned blocks,
+remarks: querry whois.afrinic.net port 43, or the web based
+remarks: query at http://whois.afrinic.net or www.afrinic.net
+remarks: website: www.afrinic.net
+remarks: Other Contacts:
+remarks: ===============
+remarks: hostmaster@afrinic.net - for IP resources
+remarks: new-member@afrinic.net - for new members and other
+remarks: inquiries.
+address: 11th Floor, Standard Chartered Tower
+address: 19, Cybercity
+address: Ebène
+phone: +230 403 5100
+fax-no: +230 466 6758
+admin-c: CA15-AFRINIC
+tech-c: IT7-AFRINIC
+mnt-ref: AFRINIC-HM-MNT
+mnt-ref: AFRINIC-IT-MNT
+mnt-ref: AFRINIC-DB-MNT
+mnt-by: AFRINIC-HM-MNT
+source: AFRINIC # Filtered
+
+person: CTO AFRINIC
+address: 11th Floor, Standard Chartered Tower
+address: 19, Cybercity
+address: Ebène
+address: Mauritius
+phone: +230 403 51 00
+nic-hdl: CA15-AFRINIC
+source: AFRINIC # Filtered
+
+person: Infrastructure Team
+address: AFRINIC Ltd
+address: 11th Floor, Standard Chartered Tower
+address: 19, Cybercity
+address: Ebène
+address: Mauritius
+phone: +230 403 51 00
+nic-hdl: IT7-AFRINIC
+source: AFRINIC # Filtered
+
+% Information related to '196.216.2.0/23AS33764'
+
+route: 196.216.2.0/23
+descr: AFRINIC-ZA-JNB-AS
+origin: AS33764
+mnt-by: AFRINIC-IT-MNT
+source: AFRINIC # Filtered

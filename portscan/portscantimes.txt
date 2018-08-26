@@ -1,0 +1,7 @@
+1 thread - 811
+4 threads - 286
+8 threads - 142
+auto thread - 274
+4 processes - 231
+8 processes - 93
+auto process - 191

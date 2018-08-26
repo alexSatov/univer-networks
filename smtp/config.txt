@@ -1,0 +1,3 @@
+-s smtp.yandex.ru -f alex-satov@yandex.ru -t alex-satov@yandex.ru --ssl --auth -d .\images -v
+-s smtp.mail.ru:465 -f aleksandr-satov@mail.ru -t aleksandr-satov@mail.ru --ssl --auth -d .\images -v
+-s mxs.mail.ru -f alex-satov@yandex.ru -t aleksandr-satov@mail.ru -d .\images -v
